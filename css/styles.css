@@ -1,0 +1,36 @@
+.heading-style {
+  font-size: 60px;
+  font-family: 'Open Sans', sans-serif;
+  align-items: center;
+  font-weight: 500;
+}
+
+.mid {
+  align-items: center;
+  margin-top: 100px;
+  margin-left: 35%;
+}
+
+.heading-special {
+  color: #007bff;
+}
+
+.form-style {
+  margin-top: 30px;
+}
+
+.bl {
+  color: white;
+}
+
+.blue-but {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 20%;
+  border-width: 0;
+  background-color: #007bff;
+}
+
+.blue-but:hover {
+  background-color: #2371c4;
+}
